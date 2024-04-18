@@ -1,0 +1,15 @@
+{
+  "road_state": "OK",
+  "agent_data": {
+    "accelerometer": {
+      "x": 6962,
+      "y": 1421,
+      "z": 1421
+    },
+    "gps": {
+      "longitude": 50.45084429493167,
+      "latitude": 30.523675983478928
+    },
+    "timestamp": "2024-04-18T07:29:22.936401"
+  }
+}
